@@ -17,8 +17,6 @@
 
 ![0](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFelix&theme=radical&title_color=2de2df&text_color=fff)
 
-<a href="https://github.com/JohnFelixx/MMCT-BYPASS-SHELL"><img title="MMCT BYPASS SHELL" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnFelixx&repo=MMCT-BYPASS-SHELL&theme=vision-friendly-dark"></a>
-
 <a href="https://github.com/JohnFelixx/MMCT-MULTI-TOOL"><img title="MMCT MULTI-TOOL" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnFelixx&repo=MMCT-MULTI-TOOL&theme=vision-friendly-dark"></a>
 
 <a href="https://github.com/JohnFelixx/MMCT_PROXY"><img title="MMCT PROXY" src="https://github-readme-stats.vercel.app/api/pin/?username=JohnFelixx&repo=MMCT_PROXY&theme=vision-friendly-dark"></a>
