@@ -9,16 +9,29 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/JohnFelix/count.svg" alt="Visitor Count" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnFelixx&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JohnFelix&show_icons=true&theme=radical&title_color=2de2df&text_color=fff&icon_color=2de2df" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JohnFelixx&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnFelixx&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00"/>
+</div>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnFelix&theme=radical&title_color=2de2df&text_color=fff&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnFelixx&custom_title=JohnFelixx's%20Contribution%20Graph&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&line=00FF00&point=FFFFFF" width="100%"/>
 </p>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
+</p>
+
 
 ---
 
